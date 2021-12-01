@@ -1,0 +1,25 @@
+{
+  "name": "hackathonrebuild",
+  "version": "1.0.0",
+  "description": "Rebuild for hackathon project",
+  "main": "prueba.js",
+  "scripts": {
+    "dev": "nodemon index.js ",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hexylia/hackathonRebuild.git"
+  },
+  "author": "Hexylia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hexylia/hackathonRebuild/issues"
+  },
+  "homepage": "https://github.com/Hexylia/hackathonRebuild#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "2.0.15"
+  }
+}
